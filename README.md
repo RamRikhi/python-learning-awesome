@@ -1,14 +1,14 @@
 # python-learning-awesome
 
 ---
-Below are the topics I am planning to learn, all the code practices are available based on package names.
+Below are the topics I am planning to learn, all the code snippets are available day wise.
   - [ ] user input and output
   - [ ] variables
   - [ ] Datatypes
   - [ ] Collections
   - [ ] Operators
   - [ ] Maths functions
-    - [ ] Conditional Statements
+  - [ ] Conditional Statements
   - [ ] Control Statements
   - [ ] Functions
   - [ ] Modules
