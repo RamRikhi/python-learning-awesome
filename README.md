@@ -16,3 +16,7 @@ Below are the topics I am planning to learn, all the code snippets are available
   - [ ] Exceptions Handling
   - [ ] File Handling
   - [ ] OOP - Class, Object
+  - [ ] NumPy
+  - [ ] Pandas
+  - [ ] Scikit-learn
+  - [ ] Matplotlib
