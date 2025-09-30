@@ -4,8 +4,6 @@ from datetime import datetime
 
 name = input("Enter your name: ")
 
-wish = ''
-
 hour =  datetime.now().hour
 
 if hour < 12:
